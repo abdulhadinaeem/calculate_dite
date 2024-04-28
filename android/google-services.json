@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38914024186",
+    "project_id": "calculate-diet",
+    "storage_bucket": "calculate-diet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38914024186:android:672a5ab2e60c5e98e05f43",
+        "android_client_info": {
+          "package_name": "com.example.calculate_dite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYu5hcVWkZlu01kxZFtKVR0mFUex_JklY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
